@@ -26,8 +26,6 @@ My name is Joseph Bath and I love to learn new things and expand on what I curre
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-NEW
-[11:44 PM]
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: vincenzomilano295@gmail.com">
