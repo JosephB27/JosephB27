@@ -1,8 +1,4 @@
-My name is Joseph Bath and I love to learn new things and expand on what I currently know. I love computer hardware and have also been building computers since I was 14 years old. If you would like to reach out to work on a project or to chat message me on LinkedIn!
-
- I’m currently working on: Ray Tracing Project and Personal website
- I’m currently learning: Web Development as well as C++ with OpenGL
- Fun fact: I speedrun Video Games!
+everything AI x Business
 
 <p align="center">
 
@@ -28,10 +24,10 @@ My name is Joseph Bath and I love to learn new things and expand on what I curre
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: vincenzomilano295@gmail.com">
+<a href="mailto: joseph.bath@live.com">
  <img src="https://img.shields.io/badge/-Vincenzo Milano-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincenzomilano295@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/vincenzo-milano/">
+<a href="https://www.linkedin.com/in/josephbath/">
  <img src="https://img.shields.io/badge/-Vincenzo Milano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincenzo-milano/"/>
 </a>
 </p>
