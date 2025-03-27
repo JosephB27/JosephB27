@@ -1,4 +1,4 @@
-everything AI x Business
+<h2 align="center"> everything AI x Business <h2>
 
 <p align="center">
 
