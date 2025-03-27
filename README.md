@@ -1,9 +1,6 @@
 <h1 align="center">
   everything <span style="color:#a855f7;">AI</span> x <span style="color:#10b981;">Business</span> 💼🤖
 </h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPvvAUQFhl1X9AA/giphy.gif" width="150"/>
-</p>
 <h3 align="center">Exploring the intersection of AI, product development, strategic thinking, and startup ecosystems</h3>
 
 <p align="center">
