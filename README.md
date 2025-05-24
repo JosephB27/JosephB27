@@ -1,61 +1,66 @@
-<h1 align="center">
-  everything <span style="color:#a855f7;">AI</span> x <span style="color:#10b981;">Business</span> 💼🤖
-</h1>
-<h3 align="center">Exploring the intersection of AI, product development, strategic thinking, and startup ecosystems</h3>
+# 👋 Hey, I’m Joseph
 
-<p align="center">
+I’m a Business + Computer Science student obsessed with AI, startups, and business strategy. I build products that sit at the intersection of people and technology—from consumer apps to internal AI tools.
 
-</p>
+---
 
-<h2 align="center">Technology Stack <img src="https://github.com/Vincenzo-Milano/Vincenzo-Milano/blob/main/images/laptop.gif" width="50"></h2>
+## 🚀 What I’m Building
 
-<!-- Languages -->
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+- **🎙️ OnAIr** – AI podcast generator that turns newsletters into 3-minute episodes.
+- **📱 RecipeMe** – Converts social media food videos into structured recipes.
+- **💸 Kaching** – AI-powered personal finance tracker for new grads.
 
-<!-- Frameworks & Libraries -->
-<h3 align="center">Frameworks & Libraries</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
-</p>
+---
 
-<!-- AI / Data -->
-<h3 align="center">AI / Data</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Microsoft%20Power%20Automate-0078D4?style=flat-square&logo=microsoftpowerautomate&logoColor=white"/>
-</p>
+## 🛠️ Tech Stack
 
-<!-- Tools & Platforms -->
-<h3 align="center">Tools & Platforms</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"/>
-</p>
+**Languages & Markup**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-<p align="center">
-<a href="mailto:joseph.bath@live.com">
-  <img src="https://img.shields.io/badge/-Joseph Bath-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/josephbath/">
-  <img src="https://img.shields.io/badge/-Joseph Bath-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-</a>
-</p>
+**Frameworks & Platforms**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-F37335?style=for-the-badge)
+
+**Tools & Workflow**  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 💼 Outside of Code
+
+- 🧠 Global case competitor & coach — 2nd @ JDCC, Spain, and Rotterdam
+- 🧩 Obsessed with strategic thinking & solving real-world problems
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephbath/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yourhandle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephbath&show_icons=true&hide=issues&theme=default)
+
+---
+
+## 🧪 Currently Learning
+
+- LLMs + RAG pipelines for search & summarization  
+- Deploying agentic workflows in Python  
+- Scaling React Native apps for mobile
