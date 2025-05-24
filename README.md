@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Joseph
 
-I’m a Business + Computer Science student obsessed with AI, startups, and business strategy. I build products that sit at the intersection of people and technology—from consumer apps to internal AI tools.
+I’m a Business + Computer Science student obsessed with **AI**, **startups**, and **business strategy**. I build products that sit at the intersection of people and technology—from consumer apps to internal AI tools.
 
 ---
 
