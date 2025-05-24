@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Joseph
 
-I’m a Business + Computer Science student obsessed with **AI**, **startups**, and **business strategy**. I build products that sit at the intersection of people and technology—from consumer apps to internal AI tools.
+I’m a Business + Computer Science student obsessed with **AI**, **startups**, and **business strategy**. I build products that sit at the intersection of people and technology - from consumer apps to internal AI tools.
 
 ---
 
@@ -40,7 +40,7 @@ I’m a Business + Computer Science student obsessed with **AI**, **startups**, 
 
 ## 💼 Outside of Code
 
-- 🧠 Global case competitor & coach — 2nd @ JDCC, Spain, and Rotterdam
+- 🧠 Global case competitor & coach - competed across Canada, Spain, Netherlands, Serbia
 - 🧩 Obsessed with strategic thinking & solving real-world problems
 
 ---
