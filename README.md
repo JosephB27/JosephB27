@@ -2,7 +2,7 @@
 
 startup, ai and biz strat nerd.   
   Growth @ <a href="https://gumloop.com"><img                             
-  src="https://gumloop.com/logo.svg" alt="Gumloop" height="20"            
+  src="[https://gumloop.com/logo.svg](https://brandfetch.com/gumloop.com?view=library&library=default&collection=logos&asset=idkGIiQRYS&utm_source=https%253A%252F%252Fbrandfetch.com%252Fgumloop.com&utm_medium=copyAction&utm_campaign=brandPageReferral)" alt="Gumloop" height="20"            
   style="vertical-align: middle;"></a>.                                     
   
   ---
