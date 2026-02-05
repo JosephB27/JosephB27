@@ -1,11 +1,12 @@
 # Joseph                                                                
    
-  Growth @ [Gumloop](https://gumloop.com). startup, ai & biz strat nerd.                                            
+  startups, ai & biz strat nerd. 
+  Growth @ [Gumloop](https://gumloop.com)                                           
   
   ---
 
-  **Email** · [joseph@gumloop.com](mailto:joseph@gumloop.com)
-  **LinkedIn** · [josephbath](https://www.linkedin.com/in/josephbath/)
-  **X** · [@JosephBath](https://x.com/josephbath27)
+[**Email**](mailto:joseph@gumloop.com)
+[**LinkedIn**](https://www.linkedin.com/in/josephbath/)
+[**X**](https://x.com/josephbath27)
 
   ---
